@@ -1,7 +1,7 @@
 "Te presento los archivos que he organizado lo mejor que pude. Reconozco que podría haberlo hecho mejor, pero hoy no contaba con suficiente tiempo. Espero que estén satisfechos con los resultados que he logrado y seguiré trabajando para mejorar cada día más."
 
 
-Te proporciono los pasos para abrir una página de React:
+///-----Te proporciono los pasos para abrir una página de React:------//
 
 Asegúrate de que Node.js y npm estén instalados en tu computadora.
 
